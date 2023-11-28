@@ -35,6 +35,11 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 # Screenshot and Link
 
+https://wiph2004.github.io/Module02Challenge/
+
+![image](https://github.com/wiph2004/Module02Challenge/assets/149805523/15d8f4ea-ccf7-4d30-b99b-c03f3d7cfeb5)
+
+
 
 # Credits
 For Images:
